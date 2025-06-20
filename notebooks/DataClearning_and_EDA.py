@@ -11,8 +11,8 @@ warnings.filterwarnings('ignore')
 
 
 
-train_path = '/home/aya/Streaming-Fraud-Detection/data/raw/fraudTrain.csv'
-test_path = '/home/aya/Streaming-Fraud-Detection/data/raw/fraudTest.csv'
+train_path = '/home/nabila/Streaming-Fraud-Detection/data/raw/fraudTrain.csv'
+test_path = '/home/nabila/Streaming-Fraud-Detection/data/raw/fraudTest.csv'
 
 
 # In[3]:
