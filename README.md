@@ -35,5 +35,3 @@ L'analyse exploratoire a révélé des tendances clés :
 - **Autres** : Python, SMTP (envoi d'emails).
 
 ---
-
-## 📂 Structure du Projet
